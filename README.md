@@ -37,7 +37,9 @@ while True:
         break
 ```
 ## OUTPUT
-<img width="1920" height="1080" alt="Screenshot 2026-05-19 185450" src="https://github.com/user-attachments/assets/261fd182-5cf4-4e0a-98d6-0cac6135adff" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-05-19 185450" src="https://github.com/user-attachments/assets/0f42220b-7000-44f1-a551-76518ad76ee2" />
+
 
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed.
